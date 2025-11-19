@@ -4,7 +4,6 @@
 
 # Allow only build output files in root
 !.gitignore
-!/static/
 !asset-manifest.json
 !favicon.ico
 !index.html
