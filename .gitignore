@@ -1,9 +1,10 @@
 # Ignore everything by default
 *
-*/
 
 # Allow only build output files in root
 !.gitignore
+!/static/
+!/static/**
 !asset-manifest.json
 !favicon.ico
 !index.html
